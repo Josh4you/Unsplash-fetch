@@ -1,0 +1,18 @@
+.card-img {
+    height: 90%;
+    object-fit: cover;
+    transition: all .2s ease-in;
+}
+
+.card-body {
+    overflow: hidden;
+}
+
+.heading-title {
+
+    background: linear-gradient(to right, #dc2430, #7b4397);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-weight: 500;
+}
