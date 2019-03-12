@@ -1,3 +1,7 @@
+# Simple React Web App to make API request and fetch pictures according to the seach querry.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
